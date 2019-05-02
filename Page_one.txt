@@ -1,3 +1,0 @@
-print("page one!!!!");
-how are you?
-i am fine!
