@@ -1,0 +1,4 @@
+print("Hi Veronica");
+how was your day?
+
+Testam consola
